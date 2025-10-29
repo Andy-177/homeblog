@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lh_177的博客</title>
+  <!-- 主题样式（可选：vue.css、buble.css、dark.css等） -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <!-- 代码高亮样式 -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/prismjs@1/themes/prism-tomorrow.css">
+</head>
+<body>
+  <!-- 内容会渲染到这个div -->
+  <div id="app"></div>
+
+  <script>
+    // Docsify 配置
+    window.$docsify = {
+      name: "Lh_177的博客",  // 博客名称（显示在侧边栏顶部）
+      repo: '',             // 可选：GitHub仓库地址（右上角会显示链接）
+      loadSidebar: true,    // 启用侧边栏（读取_sidebar.md）
+      maxLevel: 3,          // 目录最大层级（1-6）
+      subMaxLevel: 2,       // 子标题显示层级
+      homepage: 'README.md',// 首页文件（默认就是README.md，可省略）
+      auto2top: true,       // 切换页面时自动滚动到顶部
+      search: {             // 启用搜索功能（可选）
+        placeholder: '搜索文章...',
+        noData: '未找到结果',
+        depth: 3
+      }
+    }
+  </script>
+
+  <!-- Docsify 核心库 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- 代码高亮插件（支持多种语言） -->
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-javascript.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-html.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-css.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-python.min.js"></script>
+  <!-- 搜索插件 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+  <!-- 图片缩放插件 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+</body>
+</html>
