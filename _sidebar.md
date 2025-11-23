@@ -8,7 +8,7 @@
 
 - 实用
   - [解决第三方游戏无法接受outlook邮箱的问题](实用/解决第三方游戏无法接受outlook邮箱的问题.md)
-  - [解决第三方游戏无法接受outlook邮箱的问题](实用/解决第三方游戏无法接受outlook邮箱的问题.md)
+  - [使用ChangeKit快速更改你的sdk版本](实用/使用ChangeKit快速更改你的sdk版本.md)
 - 网页
   - [如何通过docsify搭建博客](网页/如何通过docsify搭建博客.md)
 
