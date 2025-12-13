@@ -14,6 +14,8 @@
   - [如何通过docsify搭建博客](网页/如何通过docsify搭建博客.md)
 - 玩机
   - [如何移植Linux软件到安卓](玩机/如何移植Linux软件到安卓.md)
+  - [Magisk如何和TWRP共存](玩机/Magisk如何和TWRP共存.md)
+
 
 
 
