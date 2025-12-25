@@ -4,17 +4,15 @@
 - Minecraft
   - [通过服务器扫描仪扫描同一地址下哪些端口存在服务器](Minecraft/通过服务器扫描仪扫描同一地址下哪些端口存在服务器.md)
   - [开源的开端盒子，再也不怕玩不了布吉岛了](Minecraft/开源的开端盒子，再也不怕玩不了布吉岛了.md)
-
-- 开发
-
 - 实用
   - [解决第三方游戏无法接受outlook邮箱的问题](实用/解决第三方游戏无法接受outlook邮箱的问题.md)
   - [使用ChangeKit快速更改你的sdk版本](实用/使用ChangeKit快速更改你的sdk版本.md)
-- 网页
-  - [如何通过docsify搭建博客](网页/如何通过docsify搭建博客.md)
+- Web
+  - [如何通过docsify搭建博客](web/如何通过docsify搭建博客.md)
 - 玩机
   - [如何移植Linux软件到安卓](玩机/如何移植Linux软件到安卓.md)
   - [Magisk如何和TWRP共存](玩机/Magisk如何和TWRP共存.md)
+
 
 
 
