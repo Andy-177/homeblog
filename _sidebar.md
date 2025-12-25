@@ -9,9 +9,11 @@
   - [使用ChangeKit快速更改你的sdk版本](实用/使用ChangeKit快速更改你的sdk版本.md)
 - Web
   - [如何通过docsify搭建博客](web/如何通过docsify搭建博客.md)
+  - [如何搭建私人直播间](web/如何搭建私人直播间.md)
 - 玩机
   - [如何移植Linux软件到安卓](玩机/如何移植Linux软件到安卓.md)
   - [Magisk如何和TWRP共存](玩机/Magisk如何和TWRP共存.md)
+
 
 
 
