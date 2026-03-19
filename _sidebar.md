@@ -7,6 +7,7 @@
 - 实用
   - [解决第三方游戏无法接受outlook邮箱的问题](实用/解决第三方游戏无法接受outlook邮箱的问题.md)
   - [使用ChangeKit快速更改你的sdk版本](实用/使用ChangeKit快速更改你的sdk版本.md)
+  - [油小猴插件解析的链接](实用/油小猴插件解析的链接.md)
 - Web
   - [如何通过docsify搭建博客](web/如何通过docsify搭建博客.md)
   - [如何搭建私人直播间](web/如何搭建私人直播间.md)
