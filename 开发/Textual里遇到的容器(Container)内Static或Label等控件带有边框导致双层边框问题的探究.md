@@ -9,6 +9,7 @@ with Container(id="themes-container", classes="themes-scroll-container"):
 ```
 
 可结果这个用容器的方式给Static添加滚动条时，不知道为什么，其老是外部父容器和内部子容器同时显示边框，请看下面截图：
+<div>
 <svg class="rich-terminal" viewBox="0 0 1922 1074.8" xmlns="http://www.w3.org/2000/svg">
     <!-- Generated with Rich https://www.textualize.io -->
     <style>
@@ -247,7 +248,7 @@ with Container(id="themes-container", classes="themes-scroll-container"):
     </g>
     </g>
 </svg>
-
+</div>
 
 一开始以为是子容器的问题，于是使用了下面这些方法来去除子容器边框：
 ```
